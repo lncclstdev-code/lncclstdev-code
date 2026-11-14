@@ -2,7 +2,7 @@
 
 **Aspiring Embedded Systems Engineer** · Computer Engineering graduate, UP Diliman
 
-I like the layer where software meets hardware: sensors, microcontrollers, wireless protocols and the firmware that ties them together. By day I work as a Systems Programmer at the City Government of Antipolo.
+I like the layer where software meets hardware: sensors, microcontrollers, wireless protocols and the firmware that ties them together. By day I work as a Programmer at the City Government of Antipolo.
 
 📍 Antipolo City, Philippines
 🌐 Portfolio: [lncclstdev-code.github.io](https://lncclstdev-code.github.io/)

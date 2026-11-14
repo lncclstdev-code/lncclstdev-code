@@ -4,23 +4,23 @@
 
 I like the layer where software meets hardware: sensors, microcontrollers, wireless protocols and the firmware that ties them together. By day I work as a Programmer at the City Government of Antipolo.
 
-📍 Antipolo City, Philippines
-🌐 Portfolio: [lncclstdev-code.github.io](https://lncclstdev-code.github.io/)
-📫 Email: [lncclst.admin@gmail.com](mailto:lncclst.admin@gmail.com)
-💼 LinkedIn: [lance-celeste](https://www.linkedin.com/in/lance-celeste/)
+📍 Antipolo City, Philippines  
+🌐 Portfolio: [lncclstdev-code.github.io](https://lncclstdev-code.github.io/)  
+📫 Email: [lncclst.admin@gmail.com](mailto:lncclst.admin@gmail.com)  
+💼 LinkedIn: [lance-celeste](https://www.linkedin.com/in/lance-celeste/)  
 
 ---
 
 ## 🔧 Featured Projects
 
-- 🔔 **KLSG: Keyed Long-Lasting Smart Gateway** – ESP32 smart doorbell that uses sensor fusion and Mahalanobis distance for tamper-aware anomaly detection. Capstone, presented at NEECECON 2026.
-- 🌉 **ESP-NOW to ESPHome Bridge** – Connects low-power ESP devices to Home Assistant via ESP-NOW → UART → ESPHome.
+- **KLSG: Keyed Long-Lasting Smart Gateway** – ESP32 smart doorbell that uses sensor fusion and Mahalanobis distance for tamper-aware anomaly detection. Capstone, presented at NEECECON 2026.
+- **ESP-NOW to ESPHome Bridge** – Connects low-power ESP devices to Home Assistant via ESP-NOW → UART → ESPHome.
 
 Full write-ups are on my [portfolio](https://lncclstdev-code.github.io/).
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 ![ESP32](https://img.shields.io/badge/ESP32%20/%20ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
@@ -41,7 +41,7 @@ Full write-ups are on my [portfolio](https://lncclstdev-code.github.io/).
 
 ---
 
-## 🌱 Currently
+## Currently
 
 Looking for opportunities in embedded systems, firmware and IoT engineering, and building more ESP32 projects with a focus on low-power and wireless design.
 
